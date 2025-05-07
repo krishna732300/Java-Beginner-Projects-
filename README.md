@@ -1,58 +1,21 @@
-Java Beginner Projects Repository
-This repository contains simple and beginner-friendly Java programs that cover both:
+# Java-Beginner-Projects-
+Simple Java programs using Loops and Conditions: Palindrome checker for int ,Prime Number ,BMI Calculator ,Simple Calculator
+# Java Beginner Projects 
 
-🚀 Basic Programs using loops and conditionals
+This repository contains beginner-level Java programs built using only loops, conditionals, and basic input/output.
 
-🧠 OOPs Concepts like constructors, inheritance, this, static, and more
+## Projects Included:
 
-✅ Section 1: Basic Java Programs
-Programs that use only loops, conditionals, and basic I/O:
+- ✅ Palindrome Checker
+- ✅ Prime Number Checker
+- ✅ BMI Calculator
 
-🔹 Projects Included:
-🔁 Palindrome Checker (for integers)
+Each program is kept simple and beginner-friendly for learning purposes.
 
-🔍 Prime Number Checker
+## Run Instructions:
 
-⚖️ BMI Calculator
+Make sure you have Java installed.
 
-➕ Simple Calculator
-
-Each program is kept simple and easy to understand for those just starting out with Java.
-
-🔐 Section 2: OOPs Java Practice Projects
-These projects introduce Object-Oriented Programming concepts like classes, objects, constructors, and inheritance.
-
-🏦 Project 1: BankAccount System
-Fields: accountHolderName, accountNumber, balance
-
-Concepts Used:
-
-this keyword
-
-static variable for bankName
-
-Parameterized & Default constructors
-
-Key Methods: deposit(), withdraw(), displayBalance(), displayAccountDetails()
-
-🎓 Project 2: StudentRecord with Inheritance
-Inherits from parent class Person
-
-Accepts array of marks, calculates average
-
-Uses super() to call the parent constructor
-
-Includes static method to display grading rules
-
-📌 Key Learnings
-Java Syntax, Data Types & Operators
-
-Loops and Conditionals
-
-Object Creation and Constructors
-
-Use of this and static
-
-Inheritance and Method Overriding
-
-Git & GitHub version control basics
+bash
+javac FileName.java
+java FileName
